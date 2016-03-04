@@ -1,7 +1,7 @@
 {
   "name": "atom-code2html",
   "main": "./lib/code2html",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A atom package that helps copying code to html website or markdown.",
   "keywords": [
     "code",
