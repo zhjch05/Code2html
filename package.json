@@ -2,13 +2,16 @@
   "name": "code2html",
   "main": "./lib/code2html",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A atom package that helps copying code to html website or markdown.",
   "keywords": [
+    "code",
+    "html",
+    "html literal"
   ],
   "activationCommands": {
     "atom-workspace": "code2html:toggle"
   },
-  "repository": "https://github.com/atom/code2html",
+  "repository": {"type": "git", "url": "https://github.com/zhjch05/code2html.git"},
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
