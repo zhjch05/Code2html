@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "code2html:toggle"
   },
-  "repository": {"type": "git", "url": "https://github.com/zhjch05/code2html.git"},
+  "repository": "https://github.com/zhjch05/atom-code2html",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
